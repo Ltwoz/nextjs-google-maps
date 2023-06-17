@@ -22,6 +22,16 @@ Clone this repository first then
 
 ```bash
 pnpm install
+
 # then
+
+create .env.local in root directory
+
+#then
+
+NEXT_PUBLIC_GOOGLE_API_KEY = YOUR_API_KEY
+
+#then
+
 pnpm run dev
 ```
