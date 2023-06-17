@@ -153,7 +153,7 @@ export default function Home() {
             ) : (
                 <>
                     <GoogleMap
-                        mapContainerClassName="w-full h-[200px] md:h-[600px]"
+                        mapContainerClassName="w-full h-[400px] md:h-[700px]"
                         center={center}
                         zoom={14}
                         onClick={onMapClick}
