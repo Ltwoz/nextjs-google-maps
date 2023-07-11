@@ -4,6 +4,8 @@ This repository is an example of Google Map widget using `@react-google-maps/api
 
 <hr>
 
+![screenshot](screenshot.png)
+
 ### What this app can do
 
 - Show map widget
